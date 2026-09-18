@@ -1,13 +1,13 @@
 <!-- ═══════════════════════════════════════════════════════════════ --> <!-- GITHUB PROFILE README --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center">
-👋 Hi, I'm YOUR NAME
+👋 Hi, I'm HEMANTH SANTOSH VENKATA REDDY KONALA
 ⚛️ React.js Developer • Frontend Engineer • UI Enthusiast
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=4%2B+Years+of+Professional+Experience;React.js+%7C+JavaScript+%7C+TypeScript;Building+Scalable+%26+Modern+Web+Applications;Clean+UI+%7C+Reusable+Components+%7C+Great+UX" alt="Typing SVG" /> <br/> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/> </a> <a href="https://github.com/YOUR_USERNAME?tab=repositories"> <img src="https://img.shields.io/badge/Projects-Explore-61DAFB?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/> </a> <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
 🧑‍💻 About Me
 const developer = {
-  name: "YOUR NAME",
+  name: "HEMANTH REDDY",
   role: "React.js Developer",
   experience: "4+ Years",
-  location: "YOUR LOCATION",
+  location: "HYDERABAD",
 
   coreFocus: [
     "React.js",
